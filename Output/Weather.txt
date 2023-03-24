@@ -1,0 +1,5 @@
+﻿Kanpur : 29
+Noida : 26
+New York : 3
+Seoul : 12
+kannauj : 30
